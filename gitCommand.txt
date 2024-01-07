@@ -5,7 +5,5 @@ set an email address that will be associated with each history marker
 git config --global color.ui auto 
 set automatic command line coloring for Git for easy reviewing
 
-aman
-
-bgfjbddjf
-bfdjdfj
+git remote
+git remote add origin https://github.com/Amansingh-91/upgradcampus-FSDDEC-2023.git
