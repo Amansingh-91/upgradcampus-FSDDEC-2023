@@ -30,6 +30,8 @@ class Variables {
         //  byte < short <char <int <long <float <double 
         byte age = -128; // 8bits of space
         int myAge = age; // 32 bits of space
+        float weight = 75.6f;
+        String firstName = "Aman";
         age = (byte) -129;
         System.out.println(age);
         System.out.println(myAge);
